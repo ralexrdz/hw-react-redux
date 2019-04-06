@@ -13,7 +13,7 @@ import reducers from './reducers';
 
 ReactDOM.render(
   <Provider store={createStore(reducers)}>
-    <BrowserRouter>
+    <BrowserRouter baseUrl="/hw-react-redux">
       <App/>
     </BrowserRouter>
   </Provider>

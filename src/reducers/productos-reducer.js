@@ -33,8 +33,7 @@ function productos (state = [
   switch (action.type) {
     case 'BUY':
       // action: {
-      //   id,
-      //   amount
+      //   listaProductosAComprar
       // }
 
       // decrementar en {amount} el stock del producto con {id}
