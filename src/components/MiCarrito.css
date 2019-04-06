@@ -1,0 +1,8 @@
+.ProductoEnCarrito {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ProductoEnCarrito span {
+  margin: 0 5px;
+}

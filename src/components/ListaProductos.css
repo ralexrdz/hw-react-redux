@@ -1,0 +1,9 @@
+.Producto {
+  padding: 10px;
+  background-color: #eee;
+  margin: 10px;
+}
+
+.Producto button {
+  margin: 10px 0;
+}
