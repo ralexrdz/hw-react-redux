@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rwknSites/hw-react-redux/static/css/main.3a19f276.chunk.css",
-    "main.js": "/rwknSites/hw-react-redux/static/js/main.36eddc9e.chunk.js",
-    "main.js.map": "/rwknSites/hw-react-redux/static/js/main.36eddc9e.chunk.js.map",
-    "runtime-main.js": "/rwknSites/hw-react-redux/static/js/runtime-main.05e759cb.js",
-    "runtime-main.js.map": "/rwknSites/hw-react-redux/static/js/runtime-main.05e759cb.js.map",
-    "static/js/2.5eea435f.chunk.js": "/rwknSites/hw-react-redux/static/js/2.5eea435f.chunk.js",
-    "static/js/2.5eea435f.chunk.js.map": "/rwknSites/hw-react-redux/static/js/2.5eea435f.chunk.js.map",
-    "index.html": "/rwknSites/hw-react-redux/index.html",
-    "precache-manifest.44547f97693da735aae184abd612c760.js": "/rwknSites/hw-react-redux/precache-manifest.44547f97693da735aae184abd612c760.js",
-    "service-worker.js": "/rwknSites/hw-react-redux/service-worker.js",
-    "static/css/main.3a19f276.chunk.css.map": "/rwknSites/hw-react-redux/static/css/main.3a19f276.chunk.css.map",
-    "static/js/2.5eea435f.chunk.js.LICENSE": "/rwknSites/hw-react-redux/static/js/2.5eea435f.chunk.js.LICENSE"
+    "main.css": "/hw-react-redux/static/css/main.3a19f276.chunk.css",
+    "main.js": "/hw-react-redux/static/js/main.c23ab41b.chunk.js",
+    "main.js.map": "/hw-react-redux/static/js/main.c23ab41b.chunk.js.map",
+    "runtime-main.js": "/hw-react-redux/static/js/runtime-main.742c4f48.js",
+    "runtime-main.js.map": "/hw-react-redux/static/js/runtime-main.742c4f48.js.map",
+    "static/js/2.5eea435f.chunk.js": "/hw-react-redux/static/js/2.5eea435f.chunk.js",
+    "static/js/2.5eea435f.chunk.js.map": "/hw-react-redux/static/js/2.5eea435f.chunk.js.map",
+    "index.html": "/hw-react-redux/index.html",
+    "precache-manifest.f3000d3fbf9d198893dd0781eeafef87.js": "/hw-react-redux/precache-manifest.f3000d3fbf9d198893dd0781eeafef87.js",
+    "service-worker.js": "/hw-react-redux/service-worker.js",
+    "static/css/main.3a19f276.chunk.css.map": "/hw-react-redux/static/css/main.3a19f276.chunk.css.map",
+    "static/js/2.5eea435f.chunk.js.LICENSE": "/hw-react-redux/static/js/2.5eea435f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.05e759cb.js",
+    "static/js/runtime-main.742c4f48.js",
     "static/js/2.5eea435f.chunk.js",
     "static/css/main.3a19f276.chunk.css",
-    "static/js/main.36eddc9e.chunk.js"
+    "static/js/main.c23ab41b.chunk.js"
   ]
 }
